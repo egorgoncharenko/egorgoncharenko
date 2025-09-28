@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Технический стэк
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 📌 Pinned Projects
+## 📌 
 
 - 🔧 [ansible-k8s-upgrade](https://github.com/egorgoncharenko/ansible-k8s-upgrade) — Ansible-плейбуки для обновления Kubernetes  
 
