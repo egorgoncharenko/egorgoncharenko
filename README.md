@@ -26,9 +26,6 @@
 
 ---
 
-## 📌 
-
-- 🔧 [ansible-k8s-upgrade](https://github.com/egorgoncharenko/ansible-k8s-upgrade) — Ansible-плейбуки для обновления Kubernetes  
 
 ---
 
